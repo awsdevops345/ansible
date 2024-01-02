@@ -1,5 +1,5 @@
 - name: varibales
-  hosts: locathost
+  hosts: localhost
   vars:
    course: "DEVOPS"
    Trainer: "SivaKumar"
